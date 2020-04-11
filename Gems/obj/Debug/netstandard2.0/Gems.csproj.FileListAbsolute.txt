@@ -1,0 +1,8 @@
+C:\Users\1111\source\repos\SecondTask-Selenium\Gems\bin\Debug\netstandard2.0\Gems.deps.json
+C:\Users\1111\source\repos\SecondTask-Selenium\Gems\bin\Debug\netstandard2.0\Gems.dll
+C:\Users\1111\source\repos\SecondTask-Selenium\Gems\obj\Debug\netstandard2.0\Gems.csprojAssemblyReference.cache
+C:\Users\1111\source\repos\SecondTask-Selenium\Gems\obj\Debug\netstandard2.0\Gems.AssemblyInfoInputs.cache
+C:\Users\1111\source\repos\SecondTask-Selenium\Gems\obj\Debug\netstandard2.0\Gems.AssemblyInfo.cs
+C:\Users\1111\source\repos\SecondTask-Selenium\Gems\bin\Debug\netstandard2.0\Gems.pdb
+C:\Users\1111\source\repos\SecondTask-Selenium\Gems\obj\Debug\netstandard2.0\Gems.dll
+C:\Users\1111\source\repos\SecondTask-Selenium\Gems\obj\Debug\netstandard2.0\Gems.pdb
